@@ -9,6 +9,8 @@ Update 11/20/2013 22:29
 
 Update 11/20/2013 22:52 -
 
+HI MICCCC!!!!!!!!
+
 GUYS, please try to edit this read me file so that i'd be informed that you know how to edit files here in github.
 Follow format of including the date and time + surname.
 
